@@ -1,0 +1,36 @@
+﻿@page "/hobbies"
+
+<div class="terminal-card scanline-effect">
+    <div class="terminal-header">
+        <span class="status-dot"></span>
+        <h3>> EXECUTING: GET_USER_INTERESTS.sh</h3>
+    </div>
+    
+    <hr class="terminal-hr" />
+
+    <ul class="hobby-list">
+        @foreach (var hobby in MyHobbies)
+        {
+            <li class="hobby-item">
+                <span class="prompt">>></span> @hobby
+            </li>
+        }
+    </ul>
+
+    <div class="terminal-footer">
+        <span class="loading-bar"></span>
+        <p>Total Records Found: @MyHobbies.Count</p>
+    </div>
+</div>
+
+@code {
+    //add or rename hobbies
+    private List<string> MyHobbies = new List<string> 
+    { 
+        "Software Development (C#, Java, Blazor)",
+        "Gaming (Wuthering Waves, Terraria)",
+        "Basketball",
+        "Reading Manga",
+        "Database Architecture"
+    };
+}

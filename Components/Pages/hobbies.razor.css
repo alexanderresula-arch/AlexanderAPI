@@ -1,0 +1,79 @@
+.terminal-card {
+    position: relative;
+    overflow: hidden; /* keeps linya inside */
+    background: #050505;
+    border: 1px solid #00ff41;
+    padding: 25px;
+    box-shadow: 0 0 15px rgba(0, 255, 65, 0.1);
+}
+
+/* animation: scanning linya */
+.scanline-effect::before {
+    content: " ";
+    display: block;
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: linear-gradient(to bottom, 
+        transparent 50%, 
+        rgba(0, 255, 65, 0.05) 50%);
+    background-size: 100% 4px;
+    z-index: 2;
+    pointer-events: none;
+}
+
+/* Moving scan bar */
+.scanline-effect::after {
+    content: "";
+    position: absolute;
+    top: -100px;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(0deg, 
+        rgba(0, 255, 65, 0.1) 0%, 
+        transparent 100%);
+    animation: scan 4s linear infinite;
+}
+
+@keyframes scan {
+    0% { top: -100px; }
+    100% { top: 100%; }
+}
+
+.hobby-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.hobby-item {
+    margin-bottom: 12px;
+    font-size: 1.1rem;
+    transition: transform 0.2s ease;
+}
+
+/* hover effect whne hovered */
+.hobby-item:hover {
+    transform: translateX(10px);
+    color: #fff;
+    text-shadow: 0 0 8px #00ff41;
+}
+
+.prompt {
+    color: #ffb000;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.terminal-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.status-dot {
+    width: 8px;
+    height: 8px;
+    background-color: #00ff41;
+    border-radius: 50%;
+    box-shadow: 0 0 5px #00ff41;
+}

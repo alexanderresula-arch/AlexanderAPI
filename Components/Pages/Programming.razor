@@ -1,0 +1,47 @@
+﻿@page "/programming"
+
+<div class="terminal-window">
+    <div class="title-bar">
+        <span class="buttons">● ● ●</span>
+        <span class="title">chronicle_sys_v1.log</span>
+    </div>
+
+    <div class="terminal-body">
+        <div class="glitch-text" data-text="> ACCESSING ARCHIVES...">> ACCESSING ARCHIVES...</div>
+        
+        <div class="timeline-container">
+            @foreach (var eventItem in LifeMilestones)
+            {
+                <div class="timeline-entry">
+                    <div class="timestamp">[@eventItem.Year]</div>
+                    <div class="milestone-content">
+                        <span class="milestone-title">@eventItem.Title</span>
+                        <p class="milestone-desc">@eventItem.Description</p>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <div class="footer-input">
+            <span class="user-path">user@alex-resula:~/history$</span>
+            <span class="cursor">_</span>
+        </div>
+    </div>
+</div>
+
+@code {
+    private List<Milestone> LifeMilestones = new List<Milestone>
+    {
+        new Milestone { Year = "2024", Title = "System Initialized", Description = "Began technical studies and explored C# fundamentals." },
+        new Milestone { Year = "2025", Title = "Network Expansion", Description = "Started CISCO packet tracer and ERDs." },
+        new Milestone { Year = "2026", Title = "Lost & Found Project", Description = "Developed a campus management system using Blazor and HTML/CSS." },
+        new Milestone { Year = "FUTURE", Title = "Full Stack Integration", Description = "Continuing this programming journey." }
+    };
+
+    public class Milestone
+    {
+        public string Year { get; set; } = "";
+        public string Title { get; set; } = "";
+        public string Description { get; set; } = "";
+    }
+}
