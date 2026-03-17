@@ -361,7 +361,7 @@ main[b-y1oxlzpyrm] {
         opacity: 0;
     }
 }
-/* /Components/Pages/hobbies.razor.rz.scp.css */
+/* /Components/Pages/Hobbies.razor.rz.scp.css */
 .terminal-card[b-rk3ge76reo] {
     position: relative;
     overflow: hidden; /* keeps linya inside */
@@ -440,6 +440,102 @@ main[b-y1oxlzpyrm] {
     background-color: #00ff41;
     border-radius: 50%;
     box-shadow: 0 0 5px #00ff41;
+}
+/* /Components/Pages/Home.razor.rz.scp.css */
+.home-container[b-eg1yh3tx8e] {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+/* Image Styling */
+.profile-header[b-eg1yh3tx8e] {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.image-frame[b-eg1yh3tx8e] {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 2px solid #00ff41;
+    padding: 5px;
+    border-radius: 50%; /* Circular frame */
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 255, 65, 0.3);
+}
+
+.profile-img[b-eg1yh3tx8e] {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    filter: grayscale(0.5) contrast(1.2); /* Gives it a slight "retro" look */
+}
+
+/* Separator Styling */
+.system-separator[b-eg1yh3tx8e] {
+    display: flex;
+    align-items: center;
+    margin: 2rem 0;
+    color: #00ff41;
+    font-family: monospace;
+}
+
+.line[b-eg1yh3tx8e] {
+    flex-grow: 1;
+    height: 1px;
+    background: #00ff41;
+    box-shadow: 0 0 5px #00ff41;
+}
+
+.separator-text[b-eg1yh3tx8e] {
+    padding: 0 15px;
+    font-size: 0.8rem;
+    letter-spacing: 2px;
+}
+
+/* Description List */
+.description-section[b-eg1yh3tx8e] {
+    text-align: left;
+    display: inline-block; /* Keeps it centered as a block */
+}
+
+.terminal-list[b-eg1yh3tx8e] {
+    list-style: none;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.terminal-list li[b-eg1yh3tx8e] {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+    color: #fff;
+}
+
+.label[b-eg1yh3tx8e] {
+    color: #ffb000; /* Amber for the keys */
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+/* Subtle Animation for the Image */
+.scanline[b-eg1yh3tx8e] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: rgba(0, 255, 65, 0.4);
+    opacity: 0.5;
+    animation: scan-vertical-b-eg1yh3tx8e 3s linear infinite;
+}
+
+@keyframes scan-vertical-b-eg1yh3tx8e {
+    0% { top: 0; }
+    100% { top: 100%; }
 }
 /* /Components/Pages/Programming.razor.rz.scp.css */
 .terminal-window[b-qxvf2d0uhk] {

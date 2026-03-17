@@ -83,5 +83,7 @@ C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\obj\Debug\net10.0\compressed\uiivr9pnqb-{0}-pwhhtfdgpo-pwhhtfdgpo.gz
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\obj\Debug\net10.0\scopedcss\Components\Pages\hobbies.razor.rz.scp.css
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\obj\Debug\net10.0\scopedcss\Components\Pages\Programming.razor.rz.scp.css
-C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\obj\Debug\net10.0\compressed\yqdw88xskq-{0}-5hfu0qut6t-5hfu0qut6t.gz
-C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\obj\Debug\net10.0\compressed\g35cfvfpug-{0}-5hfu0qut6t-5hfu0qut6t.gz
+C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\obj\Debug\net10.0\AlexanderAPI.sourcelink.json
+C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\obj\Debug\net10.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\obj\Debug\net10.0\compressed\yqdw88xskq-{0}-ea97gvt6nq-ea97gvt6nq.gz
+C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\obj\Debug\net10.0\compressed\g35cfvfpug-{0}-ea97gvt6nq-ea97gvt6nq.gz

@@ -30,10 +30,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alexander Resula/OneDrive/Documents/HTML Projects/AP3_Two/AlexanderAPI/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Alexander Resula/OneDrive/Documents/HTML Projects/AP3_Two/AlexanderAPI/Components/Pages/NotFound.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOb3RGb3VuZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -61,6 +57,10 @@ build_metadata.AdditionalFiles.CssScope = b-dn5oy09i8y
 [C:/Users/Alexander Resula/OneDrive/Documents/HTML Projects/AP3_Two/AlexanderAPI/Components/Pages/Hobbies.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb2JiaWVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-rk3ge76reo
+
+[C:/Users/Alexander Resula/OneDrive/Documents/HTML Projects/AP3_Two/AlexanderAPI/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-eg1yh3tx8e
 
 [C:/Users/Alexander Resula/OneDrive/Documents/HTML Projects/AP3_Two/AlexanderAPI/Components/Pages/Programming.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9ncmFtbWluZy5yYXpvcg==
