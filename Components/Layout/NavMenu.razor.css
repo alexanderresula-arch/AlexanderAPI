@@ -103,3 +103,25 @@
         overflow-y: auto;
     }
 }
+
+/* PHONE READABILITY */
+/* Hide custom button on desktop */
+@media (min-width: 641px) {
+    .terminal-toggler {
+        display: none;
+    }
+}
+
+/* Styles custom button on mobile */
+@media (max-width: 640.98px) {
+    .terminal-toggler {
+        display: block;
+        border: 1px solid #00ff41;
+        background: transparent;
+        padding: 2px 8px;
+    }
+    .toggler-text {
+        color: #00ff41;
+        font-family: monospace;
+    }
+}

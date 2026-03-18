@@ -85,5 +85,5 @@ C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\obj\Debug\net10.0\scopedcss\Components\Pages\Programming.razor.rz.scp.css
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\obj\Debug\net10.0\AlexanderAPI.sourcelink.json
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\obj\Debug\net10.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
-C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\obj\Debug\net10.0\compressed\yqdw88xskq-{0}-p94szccyls-p94szccyls.gz
-C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\obj\Debug\net10.0\compressed\g35cfvfpug-{0}-p94szccyls-p94szccyls.gz
+C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\obj\Debug\net10.0\compressed\yqdw88xskq-{0}-9wf2p2ivk7-9wf2p2ivk7.gz
+C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\obj\Debug\net10.0\compressed\g35cfvfpug-{0}-9wf2p2ivk7-9wf2p2ivk7.gz
