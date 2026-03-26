@@ -1,7 +1,0 @@
-C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\publish\AlexanderAPI.exe
-C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\publish\appsettings.Development.json
-C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\publish\appsettings.json
-C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\publish\AlexanderAPI.dll
-C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\publish\AlexanderAPI.runtimeconfig.json
-C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\publish\AlexanderAPI.pdb
-C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3_Two\AlexanderAPI\publish\AlexanderAPI.deps.json

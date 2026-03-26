@@ -1,7 +1,0 @@
-C:\inetpub\wwwroot\AlexanderPortfolio\AlexanderAPI.exe
-C:\inetpub\wwwroot\AlexanderPortfolio\appsettings.Development.json
-C:\inetpub\wwwroot\AlexanderPortfolio\appsettings.json
-C:\inetpub\wwwroot\AlexanderPortfolio\AlexanderAPI.dll
-C:\inetpub\wwwroot\AlexanderPortfolio\AlexanderAPI.runtimeconfig.json
-C:\inetpub\wwwroot\AlexanderPortfolio\AlexanderAPI.pdb
-C:\inetpub\wwwroot\AlexanderPortfolio\AlexanderAPI.deps.json
