@@ -195,7 +195,7 @@ main[b-y1oxlzpyrm] {
     }
 
     .nav-scrollable[b-9qzvpzqnn7] {
-        /* Never collapse the sidebar for wide screens */
+        /*Note to myself: Never collapse the sidebar for wide screens */
         display: block;
 
         /* Allow sidebar to scroll for tall menus */
@@ -212,7 +212,7 @@ main[b-y1oxlzpyrm] {
     }
 }
 
-/* Styles custom button on mobile */
+/* custom button style on mobile */
 @media (max-width: 640.98px) {
     .terminal-toggler[b-9qzvpzqnn7] {
         display: block;

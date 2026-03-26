@@ -95,7 +95,7 @@
     }
 
     .nav-scrollable {
-        /* Never collapse the sidebar for wide screens */
+        /*Note to myself: Never collapse the sidebar for wide screens */
         display: block;
 
         /* Allow sidebar to scroll for tall menus */
@@ -112,7 +112,7 @@
     }
 }
 
-/* Styles custom button on mobile */
+/* custom button style on mobile */
 @media (max-width: 640.98px) {
     .terminal-toggler {
         display: block;
