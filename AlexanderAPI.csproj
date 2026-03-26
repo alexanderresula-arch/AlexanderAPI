@@ -6,9 +6,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <BlazorDisableThrowNavigationException>true</BlazorDisableThrowNavigationException>
   </PropertyGroup>
-
-  <ItemGroup>
-  <DefaultItemExcludes>$(DefaultItemExcludes);publish\**</DefaultItemExcludes>
-</ItemGroup>
-
 </Project>
