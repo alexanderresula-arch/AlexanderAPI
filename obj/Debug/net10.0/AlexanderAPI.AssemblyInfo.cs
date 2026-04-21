@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlexanderAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f2e4fbb5c4bcc6f45b029621f613c36ff894eb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f89ba7b7539541d5e535b0eeb872b31a0d5f19fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlexanderAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlexanderAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
